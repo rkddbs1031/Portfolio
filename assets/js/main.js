@@ -115,7 +115,7 @@ if($(window).width() >= 769){
 		section.forEach(sec => {
 			// - window.scrollY
 			if(window.scrollY >= sec.offsetLeft  - window.scrollY /10){
-				sec.classList.add('show');	//svg
+				sec.classList.add('show');	    //svg
 				sec.classList.add('active');	//moveanimation
 			}
 		})
