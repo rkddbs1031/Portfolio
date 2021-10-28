@@ -2343,11 +2343,11 @@ body{
     /* margin:0 30vw; */
     z-index: 10;
     padding: 1vw;
-    background: #f3d2a1;
+    background: #75655f;
     border-radius: 10px;
-    box-shadow: 11px 12px #ebc287;
-    border: 3px solid #d5ad73;
-	cursor: pointer;
+    box-shadow: 11px 12px #635550;
+    border: 3px solid #4c3f3a;
+    cursor: pointer;
 }
 .project_02 .box{
 	position: relative;
@@ -2365,7 +2365,7 @@ body{
 .project_02 .left figure .img{
 	position:relative;
 	height: inherit;
-	/* background: url(../../assets/img/webstandard.jpg) no-repeat center; */
+	background: url(../../assets/img/php-port03.jpg) no-repeat center;
 	background-size: cover;
 }
 .project_02 .left figcaption{
@@ -2447,13 +2447,14 @@ body{
     font-size: 2.3vw;
     font-family: 'yg-jalnan';
     line-height: 43px;
-    text-shadow: 2px 2px #d5ad73;
+    text-shadow: 2px 2px #3c2b26;
 }
 .project_02 .right .project_desc strong{
     display: block;
     font-size: 1.1vw;
     font-family: 'S-CoreDream-4Regular';
     margin-top: 5%;
+    color: #eee;
 }
 /* porject 03 */
 .sec4 .project_03{
